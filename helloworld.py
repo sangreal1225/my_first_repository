@@ -9,3 +9,5 @@ class HelloWorld:
 
 a = HelloWorld(' World!')
 a.greet()
+
+#クラスの概念を簡単に理解するためのコード 
